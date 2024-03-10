@@ -12,3 +12,7 @@
 #### Create_Schema.py file creates a schema fro BigQuery
 #### Insert_data_into_bigquery.py insets the taxi data to GCP BigQuery
 
+
+## The Screnshot of the Loaded Data is shown below.
+<img width="1904" alt="Screenshot 2024-03-10 at 1 19 33 PM" src="https://github.com/SabinAdkh/Loading_NYC_taxi_Data_to_GCP/assets/48882205/21ab55f3-a2bf-442d-9bfa-90c05becc085">
+
