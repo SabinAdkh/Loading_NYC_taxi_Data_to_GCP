@@ -1,6 +1,6 @@
 ### Task:  A Simple Python Script to Load NYC taxi data to GCP BigQuery
 
-### Goal: The main goal of this project was to make is easire to laod data to Google Cloud Platform. 
+### Goal: The main goal of this project was to make it easier to laod data to Google Cloud Platform. 
 
 * The dataset was loaded from ```https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page```
 
